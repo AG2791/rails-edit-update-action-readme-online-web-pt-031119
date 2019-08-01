@@ -31,6 +31,4 @@ def update
   redirect_to article_path(@article)  # redirect to show page  
 end
 
-
-  
 end
